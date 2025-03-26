@@ -9,8 +9,8 @@ import Signup from './Components/Signup'
 import Login from './Components/Login'
 
 function App() {
-  window.global=window
 
+  
   return (
     <>
     {/* <Navi/> */}

@@ -13,4 +13,7 @@ export default defineConfig({
       buffer: 'buffer',
     },
   },
+  // server: {
+  //   port: 3000, // Change to a different port
+  // },
 })
