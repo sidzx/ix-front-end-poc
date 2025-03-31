@@ -1,5 +1,5 @@
 import { CognitoUser,AuthenticationDetails } from "amazon-cognito-identity-js";
-import UserPool from "./UserPool";
+import UserPool from "./Userpool";
 const log = (email, password, callback) => {
     const authDetails = new AuthenticationDetails({
       Username: email,
